@@ -1,4 +1,6 @@
-### Hi there 👋
+### Dirección de Gobierno de Datos e Información
+
+La Dirección de Gobierno de Datos e Información UC es una unidad de la Prorrectoría de la Pontificia Universidad Católica de Chile, que tiene como misión llevar a cabo los procesos de gobernanza de datos de la UC.  
 
 <!--
 **datagovuc/datagovuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
